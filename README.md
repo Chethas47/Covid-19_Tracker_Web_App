@@ -1,5 +1,5 @@
 ## COVID-19 Tracker
-### A Covid-19 tracking app made in React Js
+### A Covid-19 tracking Web application made in React Js
 
 ### Check out the site here - https://chethas-covid19tracker.netlify.app/
 ### API used - https://covid19.mathdro.id/api
